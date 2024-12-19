@@ -1,1 +1,1 @@
-git@github.com:spleshen/first-project.git
+https://github.com/spleshen/ono-tebe-nado.project
